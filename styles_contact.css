@@ -1,0 +1,23 @@
+
+body {
+    background-color: #FAF9F6;
+}
+
+.details {
+    font-family: 'Merriweather', serif;
+}
+
+hr {
+    border: dotted #eaf6f6 6px;
+    border-bottom: none;
+    width: 4%; 
+    margin: 20px auto;
+}
+ 
+h1 {
+    color: #66bfbf
+}
+
+h2 {
+    color: #66bfbf;
+}
